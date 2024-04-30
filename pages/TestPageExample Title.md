@@ -5,3 +5,4 @@ variant: tiptap
 description: main
 image: /images/tableau.png
 ---
+<p>abracadabra</p>
